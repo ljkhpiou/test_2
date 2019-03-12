@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/ljkhpiou/test_2/edit/maste
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### This is a test website
 what is i want to add a picture.
-![Image](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjs1qGO1_3gAhWXu54KHbmMBhUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fstay-in-the-moment-take-a-picture%2F&psig=AOvVaw39iWRkYa-132X6WrJT-LKl&ust=1552517121587812)
+![Image]('/23203222.jpg')
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
