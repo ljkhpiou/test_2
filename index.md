@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 #### what is i want to add a picture.
 
 ![](https://github.com/ljkhpiou/test_2/blob/master/23203222.jpg?raw=true)
-![](https://github.com/ljkhpiou/test_2/blob/master/23203222.jpg?raw=true)
+*this is test*
 
 ### What going on, where is my picture
 ### Markdown
