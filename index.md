@@ -5,9 +5,7 @@ You can use the [editor on GitHub](https://github.com/ljkhpiou/test_2/edit/maste
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### This is a test website
 what is i want to add a picture.
-![Image](
-        test_2/23203222.jpg
-      )
+![Image]()
 What going on, where is my picture
 ### Markdown
 
