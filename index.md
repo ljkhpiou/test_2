@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### This is a test website
 what is i want to add a picture.
 ![Image](https://github.com/ljkhpiou/test_2/blob/master/23203222.jpg)
+What going on, where is my picture
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
